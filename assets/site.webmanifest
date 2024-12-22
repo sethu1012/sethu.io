@@ -1,0 +1,54 @@
+{
+  "name": "Sethuraman Srinivasan",
+  "short_name": "sethu.io",
+  "description": "Problem solver, developer, and cloud architect.",
+  "icons": [
+    {
+      "src": "/assets/android-chrome-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/assets/android-chrome-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/assets/images/photo-150.png",
+      "sizes": "150x150",
+      "type": "image/jpeg"
+    },
+    {
+      "src": "/assets/images/photo-200.png",
+      "sizes": "200x200",
+      "type": "image/jpeg"
+    },
+    {
+      "src": "/assets/images/photo-300.png",
+      "sizes": "300x300",
+      "type": "image/jpeg"
+    },
+    {
+      "src": "/assets/images/photo-500.png",
+      "sizes": "500x500",
+      "type": "image/jpeg"
+    },
+    {
+      "src": "/assets/images/photo-600.png",
+      "sizes": "600x600",
+      "type": "image/jpeg"
+    },
+    {
+      "src": "/assets/images/apple-touch-icon.png",
+      "sizes": "180x180",
+      "type": "image/png"
+    }
+  ],
+  "background_color": "#ffffff",
+  "theme_color": "#ffffff",
+  "dir": "ltr",
+  "lang": "en-US",
+  "orientation": "portrait-primary",
+  "start_url": "../index.html",
+  "display": "minimal-ui"
+}
